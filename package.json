@@ -1,0 +1,27 @@
+{
+    "name": "cra-template-deckgl",
+    "version": "1.0.0",
+    "keywords": [
+        "react",
+        "create-react-app",
+        "deck.gl",
+        "template"
+    ],
+    "description": "This is deck.gl template for Create React App.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shimizu/cra-template-deckgl.git",
+        "directory": "cra-template-deckgl"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=10"
+    },
+    "bugs": {
+        "url": "https://github.com/shimizu/cra-template-deckgl/issues"
+    },
+    "files": [
+        "template",
+        "template.json"
+    ]
+}
